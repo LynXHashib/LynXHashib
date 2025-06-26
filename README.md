@@ -87,6 +87,22 @@ A carefully crafted Hyprland setup featuring a modern, aesthetic Linux desktop e
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LynXHashib&theme=tokyonight" alt="LynXHashib's streak"/>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LynXHashib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <h3>💭 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <h3>🔥 Keep coding, keep creating! 🔥</h3>
+  <p><em>"The best way to predict the future is to create it."</em></p>
+</div>
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LynXHashib&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="LynXHashib's trophies"/>
