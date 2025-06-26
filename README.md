@@ -19,6 +19,9 @@ I'm a passionate **Full Stack Developer** who loves building modern web applicat
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,7 +62,7 @@ A modern social media application built with the MERN stack featuring real-time 
 **Features:** User authentication, post creation, social interactions, email notifications  
 **Status:** 🚧 Adding Socket.IO for live chat
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20App-blue?style=flat-square)](https://connecthub-eosin.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20App-blue?style=flat-square)](https://lynxhashib.github.io/SocialMedia)
 [![GitHub](https://img.shields.io/badge/📂%20GitHub-Repository-black?style=flat-square)](https://github.com/LynXHashib/SocialMedia/)
 [![API Docs](https://img.shields.io/badge/📚%20API%20Docs-View%20Endpoints-green?style=flat-square)](https://connecthub-eosin.vercel.app/docs/)
 
@@ -89,17 +92,6 @@ A carefully crafted Hyprland setup featuring a modern, aesthetic Linux desktop e
   <img src="https://github-profile-trophy.vercel.app/?username=LynXHashib&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="LynXHashib's trophies"/>
 </div>
 
-## 💻 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.23%
-React        4 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   24.82%
-Node.js      2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
-CSS          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.29%
-Markdown     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-```
-<!--END_SECTION:waka-->
 
 ## 🌍 Connect With Me
 
@@ -108,8 +100,6 @@ Markdown     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LynXHashib)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FuriousBuster)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashib4305@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lynxhashib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
