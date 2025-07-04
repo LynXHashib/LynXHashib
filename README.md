@@ -89,26 +89,6 @@ A carefully crafted Hyprland setup featuring a modern, aesthetic Linux desktop e
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LynXHashib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <h3>💭 Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <h3>🔥 Keep coding, keep creating! 🔥</h3>
-  <p><em>"The best way to predict the future is to create it."</em></p>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LynXHashib&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="LynXHashib's trophies"/>
-</div>
-
-
 ## 🌍 Connect With Me
 
 <div align="center">
@@ -118,22 +98,6 @@ A carefully crafted Hyprland setup featuring a modern, aesthetic Linux desktop e
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashib4305@gmail.com)
 
 </div>
-
-## 🎯 Current Focus
-
-- 🔄 **Implementing Socket.IO** for real-time chat in ConnectHub
-- 🎨 **Perfecting my Hyprland setup** with new animations and themes
-- 📚 **Learning advanced React patterns** and state management
-- 🌟 **Contributing to open-source projects** in the JavaScript ecosystem
-
-## 💡 Fun Facts
-
-- 🐧 I daily drive **Arch Linux** with a custom Hyprland setup
-- 🎮 I love gaming on Linux (yes, it's possible!)
-- ☕ I can't code without coffee
-- 🌙 I'm most productive during late night coding sessions
-- 🎵 I listen to lofi hip hop while coding
-
 ## 📈 Activity Graph
 
 <div align="center">
